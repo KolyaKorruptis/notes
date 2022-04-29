@@ -4,14 +4,17 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 18:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 22:29:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
             <title><![CDATA[test1]]></title>
             <guid>cad09f7f89704f1eb7ef775117ddf2ab</guid>
             <pubDate>Fri, 29 Apr 2022 13:53:59 GMT</pubDate>
-            <content:encoded><![CDATA[Dies ist ein Test. Lass mal auch Umlaute testen: ü Ä ö ß]]></content:encoded>
+            <content:encoded><![CDATA[<p>Dies ist ein Test. Lass mal auch Umlaute testen: ü Ä ö ß</p>
+<p>Und Bilder!</p>
+<p><img src="/_resources/8cf295084d3d4ba6af6c7a712ac60b37.jpg" /></p>
+]]></content:encoded>
         </item>
     </channel>
 </rss>
